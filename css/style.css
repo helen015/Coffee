@@ -22,7 +22,7 @@ ul{
 .container{
     max-width: 1240px;
     margin: 0 auto;
-    outline: 1px solid red;
+    /* outline: 1px solid red; */
     padding: 0 24px;
 }
 
